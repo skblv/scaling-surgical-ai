@@ -10,9 +10,7 @@ The experiments are surgical tool detection on SDSC-EEA, CholecT50, PitVis-2023 
 
 ## Scope
 
-- Researchers may use the other datasets (CholecT50, PitVis-2023 and SurgVU), which are available subject to their corresponding data agreements.
-- SDSC-EEA is private. Access is granted by the Surgical Data Science Collective under a data-use agreement.
-- The scripts are the ones that produced the paper's numbers, moved into this layout. They were not re-run after the move: only the figure scripts and the tests were executed here.
+- Researchers may use CholecT50, PitVis-2023 and SurgVU datasets, which are available subject to their corresponding data agreements. SDSC-EEA is a private dataset and access is granted by the Surgical Data Science Collective under individual data-use agreements. Please reach out to SDSC for access to SDSC-EEA. 
 
 ## Setup
 
